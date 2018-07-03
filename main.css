@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  padding: 10px 0;
+}
+div.container {
+  width: 95%;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+div.bank {
+  background: blue;
+  width: 48%;
+  height: 300px;
+  float: left;
+
+}
+
+div.customer {
+  background: red;
+  width: 48%;
+  height: 300px;
+  float: right;
+
+}
